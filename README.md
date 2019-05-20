@@ -1,8 +1,8 @@
-## _Simple Calculator in C#_ ##
+## _Horizontal Graph Bar_ ##
 
 
 
 
 <p align="center">                              
- <img src="images/horizontal-bar.jpg">
+ <img src="Images/horizontal-bar.jpg">
 </p>
